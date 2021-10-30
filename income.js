@@ -18,5 +18,5 @@ function incomes(n){
     }
     return tax
 }
-console.log(incomes(10000000))
+//console.log(incomes(10000000))
 module.exports = { incomes }
